@@ -1,11 +1,9 @@
 <div align="center">
 
-<p>
-  🔴 🟡 🟢 &nbsp; <code>user@macbook-pro:~/projects</code>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:00ADD8,100:e05d44&height=180&section=header&text=Concurro&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00ADD8&center=true&vCenter=true&width=435&lines=Rust+x+Go+Developer;macOS+Power+User;Building+Fast+%26+Safe" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=333333&center=true&vCenter=true&width=435&lines=Rust+x+Go+Polyglot;macOS+Power+User;Systems+Engineering;Performance+%26+Concurrency" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -45,8 +43,6 @@
 
 <br/>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ADD8,100:e05d44&height=120&section=footer&text=Designed%20on%20macOS&fontSize=20&fontColor=ffffff" width="100%"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e05d44,100:00ADD8&height=100&section=footer" width="100%"/>
 
 </div>
