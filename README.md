@@ -1,29 +1,25 @@
 <div align="center">
 
-<h1><code>>_ sudo ./Concurro --profile</code></h1>
+<p>
+  <code>user@macbook-pro:~/projects</code>
+</p>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=39FF14&background=000000&center=true&vCenter=true&width=500&lines=System+Initializing...;Loading+Module:+Rust_Core;Loading+Module:+Go_Routine;Target:+macOS+Darwin;Status:+Online" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00ADD8&center=true&vCenter=true&width=435&lines=Rust+x+Go+Developer;macOS+Power+User;Building+Fast+%26+Safe" alt="Typing SVG" />
 </a>
 
-<br/><br/>
+<br/>
 
 <p>
-  <img src="https://img.shields.io/badge/OS-macOS-000000?style=flat-square&logo=apple&logoColor=white" />
-  <img src="https://img.shields.io/badge/LANG-Rust-000000?style=flat-square&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/LANG-Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/CONTAINER-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/TOOL-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 <br/>
 
 <table>
-  <thead>
-    <tr>
-      <th colspan="2" align="center">📡 TELEMETRY DATA</th>
-    </tr>
-  </thead>
   <tr>
     <td colspan="2" align="center">
       <img src="./profile-summary-card-output/aura/0-profile-details.svg" width="100%" />
@@ -49,6 +45,8 @@
 
 <br/>
 
-<code>Process finished with exit code 0</code>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ADD8,100:e05d44&height=120&section=footer&text=Designed%20on%20macOS&fontSize=20&fontColor=ffffff" width="100%"/>
+</p>
 
 </div>
