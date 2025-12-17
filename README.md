@@ -1,21 +1,20 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7B955&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%9B;I+am+Concurro;Rust+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
-</a>
-
 <p>
-  <code>Stats</code> <b>•</b>
-  <code>Rust</code> <b>•</b>
-  <code>DevOps</code> <b>•</b>
-  <code>Innovation</code>
+  🔴 🟡 🟢 &nbsp; <code>user@macbook-pro:~/projects</code>
 </p>
 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00ADD8&center=true&vCenter=true&width=435&lines=Hello,+World!;Rust+x+Go+Developer;macOS+Power+User;Building+Fast+%26+Safe" alt="Typing SVG" />
+</a>
+
+<br/>
+
 <p>
+  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 <br/>
@@ -47,7 +46,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ADD8,100:e05d44&height=120&section=footer&text=Designed%20on%20macOS&fontSize=20&fontColor=ffffff" width="100%"/>
 </p>
 
 </div>
